@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, My name is Nathan Carrilho!
+## Hello World, My name is Nathan Carrilho Leal!
+💬 Ask me about Cloud, Containers, CI/CD, Observability, Infraestructure, Linux and Networking.
+
 <div align="center">
   <a href="https://github.com/nathancarrilho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathancarrilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
 </div>
   
   ##
- 
+ - 📫 How to reach me:
 <div> 
   <a href="https://instagram.com/nathancarrilhoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nathancarrilholeal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
