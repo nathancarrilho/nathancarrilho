@@ -8,7 +8,8 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathancarrilho&show_icons=true&theme=dracula&count_private=true&cache_seconds=21600)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathancarrilho&theme=dracula)
+
 
 ---
 
