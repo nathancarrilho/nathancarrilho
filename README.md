@@ -2,7 +2,7 @@
 
 💡 DevOps / Cloud Engineer focused on **Reliability, Automation and Scalability**.
 
-💬 Ask me about **Cloud, DevOps, CI/CD, Containers, SRE, Linux and Networking**.
+💬 Ask me about **Cloud, DevOps, CI/CD, Containers, Linux and Networking**.
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ DevOps / SRE Stack
+## 🛠️ DevOps Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
