@@ -1,35 +1,109 @@
-## 👋 Hi, I'm Nathan Carrilho Leal
+# Hi 👋 I'm Nathan Carrilho Leal
 
-💡 DevOps / Cloud Engineer focused on **Reliability, Automation and Scalability**.
+### ☁️ DevOps Engineer
 
-💬 Ask me about **Cloud, DevOps, CI/CD, Containers, Linux and Networking**.
+Building reliable, scalable and automated platforms.
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Platform+Engineer;Cloud+Engineer;AWS+%7C+Azure+%7C+Google+Cloud;Kubernetes+%7C+GitOps+%7C+CI%2FCD;Automation+%7C+Terraform+%7C+Python"/>
 
-## 📊 GitHub Activity
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nathan-carrilho-leal-6315771a0/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square\&logo=gmail)](mailto:nathancarrilholeal@gmail.com)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathancarrilho&theme=dracula)
-
-
----
-
-## 🛠️ DevOps Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+</div>
 
 ---
 
-## 🎓 Certifications
+# 🚀 About Me
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
+```yaml
+name: Nathan Carrilho Leal
+
+role: DevOps / Cloud Engineer
+
+focus:
+  - Cloud Infrastructure
+  - Platform Engineering
+  - GitOps
+  - Kubernetes
+  - Automation
+  - Observability
+  - Infrastructure as Code
+
+currently_learning:
+  - Advanced Kubernetes
+  - Platform Engineering
+  - Cloud Architecture
+```
 
 ---
 
-## 📫 Contact
+# 🛠️ Tech Stack
 
-- LinkedIn: https://www.linkedin.com/in/nathan-carrilho-leal-6315771a0/
-- Email: nathancarrilholeal@gmail.com
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
+</p>
+
+### 🚀 DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=github,gitlab,jenkins,docker,kubernetes,terraform,prometheus,grafana,python,bash"/>
+</p>
+
+### GitOps
+
+<p>
+
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white"/>
+
+</p>
+
+---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathancarrilho&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancarrilho&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nathancarrilho&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nathancarrilho&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+# 📫 Connect with me
+
+* 💼 LinkedIn: https://linkedin.com/in/nathan-carrilho-leal-6315771a0
+* 📧 Email: [nathancarrilholeal@gmail.com](mailto:nathancarrilholeal@gmail.com)
+
