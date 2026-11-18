@@ -51,22 +51,6 @@ certifications:
 
 ---
 
-## Engineering Focus
-
-| Domain | What I build | Practices |
-|:--|:--|:--|
-| **Delivery platform** | Reusable GitHub Actions workflows used across many repositories | Versioned workflows, documented inputs, sensible defaults with override options |
-| **Container builds** | Docker image pipelines with fast, predictable builds | Buildx, layer caching, scheduled cache cleanup, image scanning |
-| **GitOps & Kubernetes** | Declarative deployments to Kubernetes | ArgoCD, Helm, configurable sync and wait options |
-| **Serverless deployment** | Automated deploys to Cloud Run services and jobs | Reusable deploy workflows, post-deploy API tests, per-environment configuration |
-| **Migrations** | Move CI/CD from legacy tools to GitHub | Jenkins to GitHub Actions, GitLab to GitHub, repository inventory and reporting |
-| **Cloud & infrastructure** | Multi-cloud environments managed as code | Keyless pipeline authentication, IAM and repository permissions via pull requests |
-| **Artifact management** | Central, governed artifact repositories | JFrog Artifactory, registry conventions, image tagging standards |
-| **Developer experience** | Self-service onboarding and a service catalog | Backstage catalog metadata, technical documentation next to code |
-| **Observability & reporting** | Dashboards on engineering and repository activity | Actionable metrics, adoption and migration tracking |
-
----
-
 ## Technology
 
 | | |
