@@ -86,12 +86,8 @@ certifications:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nathancarrilho&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
 </p>
 
----
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan_Carrilho_Leal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-carrilho-leal-6315771a0/)
-[![Email](https://img.shields.io/badge/nathancarrilholeal@gmail.com-30363D?style=flat-square&logo=gmail&logoColor=white)](mailto:nathancarrilholeal@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" alt=""/>
 
