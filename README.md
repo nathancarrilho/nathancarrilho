@@ -11,9 +11,47 @@
 
 ---
 
-## Engineering Focus
+## Profile
 
-DevOps and Cloud Engineer designing and operating automated, observable and secure platforms across **AWS, Azure and Google Cloud**, with development teams as the main users.
+```yaml
+name: Nathan Carrilho Leal
+
+role: DevOps / Platform / Cloud Engineer
+
+clouds:
+  - AWS
+  - Azure
+  - Google Cloud
+
+focus:
+  - Platform Engineering
+  - CI/CD and Reusable Workflows
+  - GitOps
+  - Kubernetes
+  - Infrastructure as Code
+  - Observability
+  - Cloud Security
+
+practices:
+  - Reusable, versioned GitHub Actions workflows with documented inputs
+  - Docker image build pipelines with Buildx, layer caching and scheduled cache cleanup
+  - GitOps delivery with ArgoCD and Helm
+  - Automated deployments to Cloud Run and Kubernetes
+  - Automated API testing after deployment
+  - Keyless cloud authentication from pipelines
+  - Cloud IAM and repository permissions managed as code
+  - Artifact management with JFrog Artifactory
+  - Jenkins to GitHub Actions and GitLab to GitHub migrations
+  - Engineering dashboards and reporting on repository activity
+  - Technical documentation for workflows and platform usage
+
+certifications:
+  - AWS Certified Cloud Practitioner
+```
+
+---
+
+## Engineering Focus
 
 | Domain | What I build | Practices |
 |:--|:--|:--|
@@ -46,22 +84,21 @@ DevOps and Cloud Engineer designing and operating automated, observable and secu
 
 ---
 
-## Activity
+## GitHub Analytics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathancarrilho/nathancarrilho/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathancarrilho/nathancarrilho/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/nathancarrilho/nathancarrilho/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=nathancarrilho&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancarrilho&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com?user=nathancarrilho&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nathancarrilho&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
+</p>
 
 ---
 
